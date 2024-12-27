@@ -45,36 +45,6 @@ Analyzing customer behavior and sales trends using the **Music Store Dataset**.
 4. **SQL Analysis**: Answered key business questions.  
 5. **Visualization**: Developed dashboards in Tableau.  
 
----
 
-## Visualizations  
-- **Bar Charts**: Genre popularity, customer spending trends.  
-- **Heatmaps**: Invoices by geography.  
-- **Treemaps**: Customer spending by artist.  
-- **Scatter Plots**: Track length vs. invoice totals.  
-
-### Dashboards  
-1. **Employee Insights**  
-2. **Sales Trends**  
-3. **Genre Popularity**  
-4. **Rock Music Trends**  
-5. **Track Insights**  
-
----
-
-## Files  
-- **SQL Queries**: `create_database.sql`, `analyze_data.sql`  
-- **Dashboards**: Tableau visualizations and dashboard images  
-- **ER Diagram**: `er-diagram.png`  
-- **Tableau Workbook**: `music_store_analysis.twbx`  
-
----
-
-## Insights  
-- **Employee Insights**: Senior-most employee is [Name], serving as [Job Title].  
-- **Sales Trends**: [Country A] and [City Name] generate the highest revenues.  
-- **Top Customer**: [Customer Name], prefers [Genre/Category].  
-- **Popular Genres**: Rock music dominates globally, especially in [Country].  
-- **Track Analysis**: Tracks longer than average are [Track Names].  
 
 
