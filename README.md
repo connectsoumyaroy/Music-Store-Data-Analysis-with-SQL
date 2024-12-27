@@ -77,7 +77,4 @@ Analyzing customer behavior and sales trends using the **Music Store Dataset**.
 - **Popular Genres**: Rock music dominates globally, especially in [Country].  
 - **Track Analysis**: Tracks longer than average are [Track Names].  
 
----
 
-## Explore Dashboards  
-Interactive Tableau Dashboards: [Tableau Public](#)
